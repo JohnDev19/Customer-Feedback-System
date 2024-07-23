@@ -29,7 +29,7 @@ A simple Customer Feedback System built with React. It allows users to submit fe
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/customer-feedback-system.git
+   git clone https://github.com/JohnDev19/customer-feedback-system.git
    ```
 2. Navigate to the project directory:
    ```
