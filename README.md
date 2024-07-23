@@ -4,6 +4,8 @@
 
 A simple Customer Feedback System built with React. It allows users to submit feedback, view feedback summaries, and analyze sentiment. The system includes features such as rating distribution charts, sentiment analysis, and category filtering.
 
+![Screenshot](IMG_20240723_235010.jpg)
+
 ## Features
 
 - User-friendly feedback submission form
